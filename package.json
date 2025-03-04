@@ -2,7 +2,7 @@
   "name": "fed",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://phone-customizer.vercel.app/",
+  "homepage": ".",
   "dependencies": {
     "@react-three/drei": "^10.0.3",
     "@react-three/fiber": "^9.0.4",
